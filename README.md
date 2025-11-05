@@ -10,7 +10,7 @@
 * Pytest (for running tests)
 
 ### Testing:
-This program includes several test functons that make sure the program can read the list of hashes and passwords, as well as looking for matches between the ahses and passwords. All of these functions ultimately help the program crack as many passwords as possible.
+This program includes several test functons that make sure the program can read the list of hashes and passwords, as well as looking for matches between the two lists. All of these functions ultimately help the program crack as many passwords as possible.
 When running `pytest`, this is the expected output:
 ```
 =================================================================================================== test session starts ====================================================================================================
